@@ -10,7 +10,7 @@ https://www.facebook.com/100094217897627/videos/1559381341290472/
 
 You just need to find:
 
-- shafts with M10 shread (around 1m for each rail). You can find it easy in local markets for construction https://www.aliexpress.com/item/1005004765347349.html
+- shafts with M10 thread (around 1m for each rail). You can find it easy in local markets for construction https://www.aliexpress.com/item/1005004765347349.html
   
 - M10 nuts (up to your imagination)
   https://www.aliexpress.com/item/1005002731582312.html
@@ -19,8 +19,14 @@ You just need to find:
   
 - Heat Shrink Tubes https://www.aliexpress.com/item/1005004627224754.html
 
-- And may be right hand shread Tap M10x1.5 if you plan to print top hanler with thread and by PETG and your printer not fully calibrated https://www.aliexpress.com/item/4000712624358.html
+- And may be right hand thread Tap M10x1.5 if you plan to print top hanler with thread and by PETG and your printer not fully calibrated https://www.aliexpress.com/item/4000712624358.html
 
 All printed details that you need: <br/>
 ![image](https://github.com/ViktorDiy/FLSUN-V400-External-mount-rails/assets/147925158/2e6e647b-c3c6-4430-b8bd-782455eb305c)
+
+If you don't plane to do it with thread on top part like on picture below - at bottom and top will be the same details like on left part of the picture (I regretted not doing so :) ) <br/>
+![image](https://github.com/ViktorDiy/FLSUN-V400-External-mount-rails/assets/147925158/d6405969-0d34-407c-9bcc-9c32b49100a6)
+
+
+
 
