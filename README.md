@@ -21,3 +21,6 @@ You just need to find:
 
 - And may be right hand shread Tap M10x1.5 if you plan to print top hanler with thread and by PETG and your printer not fully calibrated https://www.aliexpress.com/item/4000712624358.html
 
+All printed details that you need: </b>
+![image](https://github.com/ViktorDiy/FLSUN-V400-External-mount-rails/assets/147925158/2e6e647b-c3c6-4430-b8bd-782455eb305c)
+
