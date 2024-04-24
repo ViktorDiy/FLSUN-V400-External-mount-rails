@@ -16,6 +16,8 @@ You just need to find:
   https://www.aliexpress.com/item/1005002731582312.html
   https://www.aliexpress.com/item/32798773566.html
   https://www.aliexpress.com/item/1005004563039691.html
+
+- M5x16mm bolts https://www.aliexpress.com/item/32542380485.html
   
 - Heat Shrink Tubes https://www.aliexpress.com/item/1005004627224754.html
 
