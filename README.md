@@ -3,7 +3,8 @@
 If you are use chamber on your V400 (I use this one https://www.printables.com/model/323012-flsun-v400-enclosure-cut-abs-version) obviosly for mount some thing on 
 printer you need external mount system and I use the following:
 
-![image](https://github.com/ViktorDiy/FLSUN-V400-External-mount-rails/assets/147925158/64127241-3cd4-4896-941a-716e7cab8ba0)
+![image](https://github.com/ViktorDiy/FLSUN-V400-External-mount-rails/assets/147925158/8b0ee1f9-2355-4b3a-8d2f-65948524fad7)
+
 
 https://www.facebook.com/100094217897627/videos/1559381341290472/
 
