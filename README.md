@@ -40,6 +40,8 @@ PLEASE don't put a lot of afforts when you crew the bolts, because leng of threa
 
 I hope you got the idea what to do with Heat Shrink Tubes...
 
+You can find in repo files with examples of mount parts for CAM and LED. I use M4 bolts and M4 inserters for that.
+
 
 
 
