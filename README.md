@@ -34,6 +34,12 @@ Bottom view:<br/>
 
 And don't forget bolts washers for V400 legs at the bottom, where you do not plan to install the rails because of simmentry...
 
+FLSUN V400 M5 bolts from top you can keep to you future DIY, because after mount installation they will be very short. You should put standard M5 bolts from bottom to the top and M5x16mm bolts from the shop - put to the buttom.
+
+PLEASE don't put a lot of afforts when you crew the bolts, because leng of thread in alu legs is very short and can be damaged!!!
+
+I hope you got the idea what to do with Heat Shrink Tubes...
+
 
 
 
