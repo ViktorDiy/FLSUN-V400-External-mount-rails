@@ -5,7 +5,7 @@ printer you need external mount system and I use the following:
 
 ![image](https://github.com/ViktorDiy/FLSUN-V400-External-mount-rails/assets/147925158/8b0ee1f9-2355-4b3a-8d2f-65948524fad7)
 
-
+Video:
 https://www.facebook.com/100094217897627/videos/1559381341290472/
 
 You just need to find:
