@@ -29,6 +29,10 @@ All printed details that you need: <br/>
 If you don't plane to do it with thread on top part like on picture below - at bottom and top will be the same details like on left part of the picture (I regretted not doing so :) ) <br/>
 ![image](https://github.com/ViktorDiy/FLSUN-V400-External-mount-rails/assets/147925158/d6405969-0d34-407c-9bcc-9c32b49100a6)
 
+Bottom view:<br/>
+![image](https://github.com/ViktorDiy/FLSUN-V400-External-mount-rails/assets/147925158/0b433fa3-f5dd-4d83-9bac-67b832bf89b8)
+
+
 
 
 
